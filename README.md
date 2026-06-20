@@ -27,7 +27,7 @@ Query → rewrite → retrieve → rerank → LLM answer with citations
 ## Project Structure
 
 ```
-Adaptive RAG Research/
+Adaptive RAG System/
 ├── app.py                  # Gradio chat UI
 ├── DATA/
 │   └── knowledge_base/     # Place your .md documents here
@@ -64,8 +64,8 @@ Adaptive RAG Research/
 ### 1. Clone the repo
 
 ```bash
-git clone https://github.com/your-username/adaptive-rag-research.git
-cd adaptive-rag-research
+git clone https://github.com/suju1811/Adaptive-RAG-System.git
+cd Adaptive-RAG-System
 ```
 
 ### 2. Install dependencies
